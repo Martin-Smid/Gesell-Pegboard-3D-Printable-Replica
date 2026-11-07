@@ -52,6 +52,6 @@ Use only under adult supervision. Discard broken or damaged pegs.
 
 ## Author
 
-Designed by Martin Šmíd :). Free to use, print and remix. If you ever use it
+Designed by me :). Free to use, print and remix. If you ever use it
 in a published article, please cite me, just for the fun of being cited outside
 of my field ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
