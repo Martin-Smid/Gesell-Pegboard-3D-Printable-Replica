@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this design, please cite it as below."
+title: "Gesell Pegboard – 3D Printable Replica"
+authors:
+  - family-names: "Šmíd"
+    given-names: "Martin"
+license: CC-BY-4.0
+repository-code: "https://github.com/Martin-Smid/Gesell-Pegboard-3D-Printable-Replica.git"
+date-released: 2026-11-07
